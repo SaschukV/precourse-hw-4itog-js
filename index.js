@@ -1,7 +1,7 @@
 let timerId
 
 const startButton = document.getElementById("start")
-startButton.addEventListener("dblclick", function () {
+startButton.addEventListener("click", function () {
   timerId = setInterval(updateClock, 1000)
 })
 
