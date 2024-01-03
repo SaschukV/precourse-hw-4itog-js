@@ -27,7 +27,7 @@ button {
   display: flex;
   justify-content: center;
 }
-@media screen and (max-width: 575) {
+@media screen and (max-width: 575px) {
   .cl {
     margin: 0 20px;
   }
