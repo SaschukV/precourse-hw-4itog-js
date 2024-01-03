@@ -16,12 +16,12 @@ button {
 .clockCase {
   display: flex;
   justify-content: center;
-  margin: 0 20px;
 }
-/* .cl {
+.cl {
   display: flex;
   flex-direction: column;
-} */
+  margin: 0 20px;
+}
 
 .buttonCase {
   display: flex;
