@@ -17,6 +17,10 @@ button {
   display: flex;
   justify-content: center;
 }
+.cl {
+  display: flex;
+  flex-direction: column;
+}
 
 .buttonCase {
   display: flex;
